@@ -1,4 +1,4 @@
-/* style.css */
+
 body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(135deg, #667eea, #764ba2);
@@ -50,7 +50,7 @@ input[type="submit"]:hover {
     background: #ff4757;
 }
 
-/* profilestyle.css */
+
 .profile-container {
     background: rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(10px);
