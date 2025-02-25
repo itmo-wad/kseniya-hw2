@@ -36,13 +36,21 @@ In this project, I implemented a basic authentication feature for a web applicat
 ---
 ### 🔹. Screenshot
 Loging Page
+
 <img width="689" alt="Capture d’écran 2025-02-25 à 13 06 21" src="https://github.com/user-attachments/assets/5fc25d2d-3863-40c6-8ba1-7ac4b350dbe4" />
 
 User Registration
+
 <img width="652" alt="Capture d’écran 2025-02-25 à 13 06 50" src="https://github.com/user-attachments/assets/0d3bf95f-c041-4069-88c9-812489440eaf" />
 
 Profile Page
+
 <img width="858" alt="Capture d’écran 2025-02-25 à 13 07 05" src="https://github.com/user-attachments/assets/6c85bac2-d4e4-4949-bb30-dda37f2b7241" />
+
+Password Encrypted on MongoDB database
+
+<img width="1129" alt="Capture d’écran 2025-02-25 à 13 15 04" src="https://github.com/user-attachments/assets/497a3ed4-a81a-4ea0-a3d6-c02f407fd5f0" />
+
 
 ## HOW To RUN ?
 
